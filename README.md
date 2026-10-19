@@ -12,7 +12,7 @@
 ---
 
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 *Languages*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=khurramalikhann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
