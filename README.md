@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Yasir Hassan 👋</h1>
+<h1 align="center">This is Khurram Ali Khan</h1>
 <p align="center">
-  <b>Computer Engineering student @ Bahria University, Islamabad</b><br/>
+  <b>Undergraduate Computer Engineering</b><br/>
   Cybersecurity • AI & Computer Vision • Full-Stack Development
 </p>
 
@@ -11,15 +11,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 Final-year *BCE* student at Bahria University, Islamabad
-- 🛡️ Building toward a career in *cybersecurity*
-- 👁️ Currently working on *VigiLense*, an AI surveillance & incident response system (my FYP)
-- 🌱 Learning: computer vision, secure system design, and offensive/defensive security fundamentals
-- 🤝 Open to internships, collaborations, and security-focused projects
-
----
 
 ### 🚀 Featured Projects
 
